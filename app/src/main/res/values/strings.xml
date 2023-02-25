@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Switch Language</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="today_is_friday">Today is Friday</string>
+    <string name="time_is_around_10_am">Time is around 10 AM</string>
+    <string name="i_am_sitting_at_the_office">I am sitting at the office</string>
+    <string name="in_front_of_my_laptop">in front of my Laptop</string>
+    <string name="today_my_task_is_to_check_with_switching_the_app_language">Today my task is to check with switching the app language</string>
+    <string name="i_have_got_the_methods_from_arun_to_check_with">I have got the methods from Arun to check with</string>
+    <string name="going_to_use_those_methods_into_this_demo_application">Going to use those methods into this demo application</string>
+    <string name="hope_this_helps_me_a_lot_for_switching_languages">Hope this helps me a lot for switching languages</string>
+    <string name="thank_you">Thank You!!!</string>
+    <string name="switch_language">Switch Language</string>
+</resources>
