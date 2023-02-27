@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">மொழி மாற்று</string>
+    <string name="good_morning">காலை வணக்கம்</string>
+    <string name="today_is_friday">இன்று வெள்ளி</string>
+    <string name="time_is_around_10_am">நேரம் 10 மணி வரை</string>
+    <string name="i_am_sitting_at_the_office">நான் அலுவலகத்தில் உள்ளேன்</string>
+    <string name="in_front_of_my_laptop">எனக்குத் தனியாக பெருகிற லேப்டாப்பின் முன்னிலையில்</string>
+    <string name="today_my_task_is_to_check_with_switching_the_app_language">இன்று என் பணி மொழியை மாற்றி பார்க்க உள்ளது</string>
+    <string name="i_have_got_the_methods_from_arun_to_check_with">அருணிடமிருந்து நான் அந்த முறைகளை பெற்றேன்</string>
+    <string name="going_to_use_those_methods_into_this_demo_application">இந்த டெமோ பயன்படுத்தி அந்த முறைகளை பயன்படுத்துவேன்</string>
+    <string name="hope_this_helps_me_a_lot_for_switching_languages">இது எனக்கு மொழிகளை மாற்றுவதில் மிகவும் உதவும் என்று நம்புகிறேன்</string>
+    <string name="thank_you">நன்றி!!!</string>
+    <string name="switch_language">மொழி மாற்று</string>
+    <string name="openCamera">கேமரா திற</string>
+</resources>

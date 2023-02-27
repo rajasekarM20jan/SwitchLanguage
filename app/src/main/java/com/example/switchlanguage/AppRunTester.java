@@ -60,7 +60,7 @@ public class AppRunTester extends AppCompatActivity {
 
     public void showChangelanguage(Activity activity) {
         try {
-            final String[] items = {"Hindi", "English"};
+            final String[] items = {"Hindi", "English","Tamil"};
             android.app.AlertDialog.Builder mBuilder = new android.app.AlertDialog.Builder(activity);
             mBuilder.setTitle("Choose Language");
             mBuilder.setSingleChoiceItems(items, -1, new DialogInterface.OnClickListener() {
@@ -71,6 +71,9 @@ public class AppRunTester extends AppCompatActivity {
                         recreate();
                     } else if (i == 1) {
                         setLocale(activity, "en");
+                        recreate();
+                    }else if(i==2){
+                        setLocale(activity, "ta");
                         recreate();
                     }
                     dialogInterface.dismiss();
